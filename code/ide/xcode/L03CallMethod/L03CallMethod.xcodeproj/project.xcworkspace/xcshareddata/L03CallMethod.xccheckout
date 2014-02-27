@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CEB6842D-E10D-4B43-A623-077E87AE163E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>L03CallMethod</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CCB14BC0-7D9E-42BD-B4C9-A3998C5D4704</key>
+		<string>https://github.com/plter/CLessons20140221.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code/ide/xcode/L03CallMethod/L03CallMethod.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CCB14BC0-7D9E-42BD-B4C9-A3998C5D4704</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/plter/CLessons20140221.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CCB14BC0-7D9E-42BD-B4C9-A3998C5D4704</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CCB14BC0-7D9E-42BD-B4C9-A3998C5D4704</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CLessons20140221</string>
+		</dict>
+	</array>
+</dict>
+</plist>

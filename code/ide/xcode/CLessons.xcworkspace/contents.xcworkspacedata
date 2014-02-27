@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:L16RandNum/L16RandNum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L15File/L15File.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L14ConStr/L14ConStr.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L13Include/L13Include.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L12ooc/L12ooc.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L11TypeDef/L11TypeDef.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L10FuncPointer/L10FuncPointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L09StructPointer/L09StructPointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L08Struct/L08Struct.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L07Loop/L07Loop.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L06IfElse/L06IfElse.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L05DefineMethod/L05DefineMethod.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L04Define/L04Define.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L03CallMethod/L03CallMethod.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L02StdIO/L02StdIO.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L01HelloC/L01HelloC.xcodeproj">
+   </FileRef>
+</Workspace>
